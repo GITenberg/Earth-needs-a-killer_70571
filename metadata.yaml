@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 70571-h/images/cover.jpg
 creator:
   author:
     agent_name: Walton, Bryce
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33100
     wikipedia: https://en.wikipedia.org/wiki/Bryce_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70571#Earth-needs-a-killer
 gutenberg_issued: '2023-04-16'
 identifiers:
   gutenberg: '70571'
